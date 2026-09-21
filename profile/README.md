@@ -9,5 +9,5 @@ StriderMC is an open source organization building high-performance, rock-solid s
 - Join our community by chatting on our Discord server:
 
 <a href="https://discord.gg/FPnxZcg6jZ">
-  <img alt="StriderMC Discord" src="https://discord.com/api/guilds/1551716255453544561/widget.png?style=banner2">
+  <img alt="StriderMC Discord" src="https://discord.com/api/guilds/1551716255453544561/widget.png?style=banner2&v=2">
 </a>
