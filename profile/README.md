@@ -3,7 +3,7 @@
 StriderMC is an open source organization building high-performance, rock-solid software for Minecraft servers.
 
 **Quickstart:**
-<!-- - Learn more and find downloads on [stridermc.com](https://stridermc.com) -->
+- Learn more on [stridermc.aleskysha.ru](https://stridermc.aleskysha.ru)
 - Follow development and star our repositories right here on [GitHub](https://github.com/StriderMC)
 - Support the project on [Open Collective](https://opencollective.com/stridermc)
 - Join our community by chatting on our Discord server:
